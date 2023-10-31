@@ -1,8 +1,8 @@
-# professional-profile-3A446B7D3E05C238AE74DD9770BF9755
+# professional-profile-CD11E3F4990C41BA1534E5F853494F58
 
-### Name : Lingesh A
-### NM ID : 3A446B7D3E05C238AE74DD9770BF9755
+### Name : Padmesh S
+### NM ID : CD11E3F4990C41BA1534E5F853494F58
 ### Title : Professional Profile
-### College : KG College of Arts and Science
-### Roll no : 2122JA33
+### College : KG College Of Arts And Science
+### Roll no : 2122JA39
 ### Dept : B.C.A
